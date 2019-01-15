@@ -10,3 +10,8 @@ server为服务端
 运行方式:
 1. 运行server里面的server1.3.exe  
 2. 运行client里面的Login.java的main方法
+
+下载地址：
+https://download.csdn.net/download/wsk1103/9702747
+or
+https://download.csdn.net/download/wsk1103/10806488
