@@ -1,20 +1,18 @@
-使用的数据库为SQL2014
-里面的数据库数据需要先自己存储
-具体建表查看网上图书借还管理系统.doc
-client为客户端
-server为服务端
-技术支持 wsk 完成于2016/06/15
-
-
+使用的数据库为SQL2014  
+里面的数据库数据需要先自己存储  
+具体建表查看网上图书借还管理系统.doc  
+client为客户端  
+server为服务端  
+技术支持 wsk 完成于2016/06/15  
 
 运行方式:
 1. 运行server里面的server1.3.exe  
 2. 运行client里面的Login.java的main方法
 
-下载地址：
-https://download.csdn.net/download/wsk1103/9702747
+下载地址：  
+https://download.csdn.net/download/wsk1103/9702747  
 or
-https://download.csdn.net/download/wsk1103/10806488
+https://download.csdn.net/download/wsk1103/10806488  
 
 ## 1.概述
 网络的发展越来越快，网上图书馆也毫不例外。因此，网上图书馆就此诞生了，学生对知识的渴望也是越来越大，并且通过网络来订阅图书是一件非常轻松的事情。
